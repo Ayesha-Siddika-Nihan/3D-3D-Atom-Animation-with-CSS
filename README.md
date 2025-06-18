@@ -1,32 +1,42 @@
-# 3D Atom Animation with CSS
-
-A responsive, rotating 3D atom animation built entirely with HTML and CSS. This project demonstrates creative use of CSS `transform`, `rotate3d`, `box-shadow`, and keyframe animations to simulate electron orbits around a nucleus—no JavaScript involved.
+<h1 align="center">3D Atom Animation with CSS</h1>
 
 <p align="center">
-  <img src="https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.snap.png" width="400" alt="3D Atom Animation Preview">
+  A rotating, responsive 3D atom model built entirely with HTML and CSS.<br>
+  Demonstrates orbiting electron paths using pure CSS animation and 3D transforms.
 </p>
 
-## Live Demo
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.snap.png" width="350" alt="3D Atom Animation Preview">
+</p>
 
-Open the HTML file in any modern browser to view the animation:
+---
 
-▶️ [atom.html](https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.html)
+<h2 align="center">📄 Project Overview</h2>
 
-## Project Files
+<p align="center">
+This project creates an animated atom structure with a glowing nucleus and three orbiting paths, simulating electron movement. It uses <strong>no JavaScript</strong>—only modern CSS features such as <code>transform-style: preserve-3d</code>, <code>rotate3d</code>, and keyframe animations.
+</p>
 
-- [atom.css](https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.css) — Core styling and animation
-- [atom.html](https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.html) — HTML structure
-- [atom.snap.png](https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.snap.png) — Static preview image
+---
 
-## Features
+<h2 align="center">🧩 Files Included</h2>
 
-- Fully responsive with CSS media queries
-- Elegant 3D rotation using `rotate3d` and `preserve-3d`
-- Central glowing nucleus with orbiting rings
-- Minimal, accessible design
+<p align="center">
 
-## How to Use
+🔹 <a href="https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.html">atom.html</a> – The HTML structure  
+🔹 <a href="https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.css">atom.css</a> – All styling and animation logic  
+🔹 <a href="https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS/blob/main/atom.snap.png">atom.snap.png</a> – Static preview image
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS.git
+</p>
+
+---
+<h2 align="center">How to Run</h2>
+
+<p align="center">
+Clone the repository and open the HTML file in any modern browser.
+</p>
+
+```bash
+git clone https://github.com/Ayesha-Siddika-Nihan/3D-3D-Atom-Animation-with-CSS.git
+cd 3D-3D-Atom-Animation-with-CSS
+start atom.html  # or open atom.html manually
